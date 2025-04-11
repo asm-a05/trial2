@@ -1,0 +1,7 @@
+<div class="container">
+  <h1>🤍To-Do List 🤍 </h1>
+  <input type="text" id="taskInput" placeholder="enter a task..."/>
+  <button id="addBtn">Add</button>
+  <ul id="taskList"></ul>
+</div>
+  
